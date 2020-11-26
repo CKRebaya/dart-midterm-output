@@ -1,0 +1,5 @@
+name: MyApp
+description: ""
+dependencies:
+  emojis: ^0.9.3
+dev_dependencies: {}
